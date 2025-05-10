@@ -1,1 +1,1 @@
-The app currently runs locally as the ML APIs are resource-intensive and not deployed on Render. Please refer to the [demo video](video link) for a working preview.
+The app currently runs locally as the ML APIs are resource-intensive and not deployed on Render. Please refer to the [demo video](https://drive.google.com/drive/folders/1V2Mk1Cxo2hCe2R8hWQTD-5GqMzhmcVwu) for a working preview and we have 3 branches - frontened , ai , backend.
